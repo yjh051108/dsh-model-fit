@@ -1,3 +1,7 @@
+> ⚠️ 本仓已并入 [yjh051108/dsh-omc](https://github.com/yjh051108/dsh-omc)（单仓库化）。
+> 新装：`git clone https://github.com/yjh051108/dsh-omc && cd dsh-omc && ./install.sh`
+> 本仓保留为历史镜像；已 clone 的仍可 pull。
+
 # @dsh-external/dsh-model-fit — 模型适配层
 
 按 **DeepSeek-V4.1-Flash 技术报告**的实测结论改造 harness 身体：**每次干预自带证据，被忽略自动静默**。
